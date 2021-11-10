@@ -1,0 +1,100 @@
+{
+    "main": {
+        "name": "Matheus Lira",
+        "description": "I'm a web development engineer and I use Java, Angular and Python to develop pages...",
+        "image": "",
+        "bio": "Programmer focused on web development, my routine is based on studies, games, reading and coffee.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "mathgomes16@gmail.com",
+        "phone": "(81) 97905-0888",
+        "github": "https://github.com/matheusglira",
+        "projects": "https://github.com/",
+        "address": {
+            "street": "Rua Paulo Afonso, 2",
+            "city": "Jatobá",
+            "state": "Pernambuco"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/matheus-lira-a18006158/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/matheusg_lira",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/matheusglira",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "UNINASSAU, Information Systems",
+                "degree": "Bachelor Degree",
+                "graduated": "July 2021",
+                "description": "Graduation focused on project management."
+            },
+            {
+                "school": "IFBA, I.T",
+                "degree": "Technical Course",
+                "graduated": "November 2016",
+                "description": "Pratical course focused on desktop applications and website developments."
+            }
+        ],
+        "work": [
+            {
+                "company": "Capgemini",
+                "title": "Digital Solutions Consultant II",
+                "years": "September 2021 - Present",
+                "description": ""
+            },
+            {
+                "company": "Datainfo",
+                "title": "Web Developer",
+                "years": "June 2021 - September 2021",
+                "description": ""
+            },
+            {
+                "company": "Deloitte",
+                "title": "RPA Developer",
+                "years": "November 2020 - June 2021",
+                "description": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "50%"
+            },
+            {
+                "name": "Django",
+                "level": "50%"
+            },
+            {
+                "name": "JAVA",
+                "level": "60%"
+            },
+            {
+                "name": "Uipath",
+                "level": "60%"
+            },
+            {
+                "name": "Angular",
+                "level": "40%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+        ]
+    }
+}
